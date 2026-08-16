@@ -1,0 +1,212 @@
+{
+    "categories": [
+        {
+            "id": "family",
+            "name": "Семейные",
+            "icon": "fa-users"
+        },
+        {
+            "id": "men",
+            "name": "Мужские",
+            "icon": "fa-user-tie"
+        },
+        {
+            "id": "women",
+            "name": "Женские",
+            "icon": "fa-venus"
+        },
+        {
+            "id": "kids",
+            "name": "Детские",
+            "icon": "fa-child"
+        }
+    ],
+    "photos": [
+        {
+            "id": "photo1",
+            "category_id": "family",
+            "url": "https://picsum.photos/id/64/800/600",
+            "code": "104"
+        },
+        {
+            "id": "photo2",
+            "category_id": "men",
+            "url": "https://picsum.photos/id/101/800/600",
+            "code": "205"
+        },
+        {
+            "id": "photo3",
+            "category_id": "women",
+            "url": "https://picsum.photos/id/338/800/600",
+            "code": "307"
+        },
+        {
+            "id": "photo4",
+            "category_id": "kids",
+            "url": "https://picsum.photos/id/103/800/600",
+            "code": "409"
+        },
+        {
+            "id": "photo_5kbefl",
+            "category_id": "kids",
+            "url": "/uploads/1783021584_143_photo_2026-03-18_22-35-07.jpg",
+            "code": "684"
+        }
+    ],
+    "promocodes": {
+        "WELCOME2026": {
+            "code": "WELCOME2026",
+            "limit": 30,
+            "used": 0,
+            "duration_days": 30,
+            "created_at": "2026-07-03 00:40:13"
+        },
+        "123": {
+            "code": "123",
+            "limit": 1,
+            "used": 1,
+            "duration_days": 1,
+            "created_at": "2026-07-03 20:30:43"
+        },
+        "PROARTEMT": {
+            "code": "PROARTEMT",
+            "limit": 15,
+            "used": 2,
+            "duration_days": 0,
+            "subscription_type": "pro",
+            "created_at": "2026-07-05 18:29:11"
+        },
+        "VIPCODE": {
+            "code": "VIPCODE",
+            "limit": 15,
+            "used": 0,
+            "duration_days": 0,
+            "subscription_type": "pro",
+            "created_at": "2026-08-12 16:49:39"
+        },
+        "HALLO": {
+            "code": "HALLO",
+            "limit": 8,
+            "used": 0,
+            "duration_days": 1,
+            "subscription_type": "pro",
+            "created_at": "2026-08-12 17:01:57"
+        },
+        "QWER": {
+            "code": "QWER",
+            "limit": 30,
+            "used": 4,
+            "duration_days": 30,
+            "subscription_type": "pro",
+            "created_at": "2026-08-12 17:10:06"
+        }
+    },
+    "orders": [],
+    "generations": [
+        {
+            "id": "gen_a75lgq00",
+            "prompt_ru": "МОЛОДОЙ викинг лежит стоит на снегу с большим и крутым топором из стали и напротив него стоит стая викингов но без оружия вид: видно спину основного викинга и стаю и вид чуть сверху",
+            "prompt_en": "Generate an image of a young Viking sitting on top of a snow-covered hill, holding a massive and jagged steel battle-axe in their hand, while a flock of Viking warriors stands frozen in front of them, but without any weapons. The main Viking is visible from behind, with the flock arranged in a semi-circle in front of them, and the image should be viewed from a slightly overhead perspective to capture the scene's dynamics and the figures' interactions., photorealistic, cinematic lighting, 8k resolution, highly detailed, shot on 35mm lens, masterpiece",
+            "style": "realistic",
+            "url": "https://platform-outputs.agnes-ai.space/images/t2i/560cd6c1e3d44fa1ab9ac32051fac979.png",
+            "author": "Аноним",
+            "created_at": "2026-07-03 00:54:11",
+            "promo_used": "12345678",
+            "is_published": true
+        },
+        {
+            "id": "gen_umyfwss5",
+            "prompt_ru": "пьеро играет на гитаре мальвине",
+            "prompt_en": "пьеро играет на гитаре мальвине, photorealistic, cinematic lighting, 8k resolution, highly detailed, shot on 35mm lens, masterpiece",
+            "style": "realistic",
+            "url": "https://platform-outputs.agnes-ai.space/images/t2i/5d4cc0cbdec64e3ba16fcdcd3a8bd67d.png",
+            "author": "Аноним",
+            "created_at": "2026-07-03 20:33:05",
+            "promo_used": "123",
+            "is_published": true
+        },
+        {
+            "id": "gen_h6cli3wo",
+            "prompt_ru": "Prompt: A knight in shining armor, standing on a hill overlooking a kingdom, with a flag waving in the background",
+            "prompt_en": "\"Create a high-resolution image of a medieval knight dressed in intricately detailed armor, preferably in the style of the Renaissance period, standing triumphantly on a windswept hill overlooking a mystical kingdom with a sprawling landscape and a majestic castle in the distance. \n\nThe knight should be positioned near the edge of the hill, with the sun casting a warm, golden light upon their face and armor, creating a sense of reverence and awe. The flag waving in the background should be the emblem of the kingdom, featuring a regal crest or a symbol of power, with a subtle blur effect to convey motion and energy.\n\nThe overall atmosphere of the image should evoke a sense of nostalgia, chivalry, and grandeur, with a mix of realistic and fantastical elements. The lighting should be soft and warm, with a slight gradient of tone to suggest depth and dimension.\n\nIn terms of technical specifications, the image should be rendered in 8K resolution (7680 x 4320 pixels) with a high level of detail, using a photorealistic style that blurs the line between reality and fantasy. The colors should be vibrant and rich, with a focus on earthy tones, metallic sheens, and velvety textures.\", photorealistic, cinematic lighting, 8k resolution, highly detailed, shot on 35mm lens, masterpiece",
+            "style": "realistic",
+            "url": "https://platform-outputs.agnes-ai.space/images/t2i/9f4e5eb1d09f49a8b0335c1c5b67b2ee.png",
+            "author": "Аноним",
+            "created_at": "2026-07-05 18:51:03",
+            "promo_used": "PROARTEMT",
+            "is_published": true,
+            "used_references": {
+                "count": 0,
+                "mapped": {}
+            }
+        },
+        {
+            "id": "gen_wmbqfka9",
+            "prompt_ru": "A fantasy golden mystical castle sitting high in misty mountains, aerial golden hour landscape view, soft watercolor washes illustration style, digital painting",
+            "prompt_en": "Strictly analyze and replicate 100% of the facial geometry, cheekbones, eyes, nose, lips and key facial landmarks of the person shown in reference image №1.  A fantasy golden mystical castle sitting high in misty mountains, aerial golden hour landscape view, soft watercolor washes illustration style, digital painting, photorealistic portrait, award-winning cinematic lighting, 8k resolution, highly detailed skin texture, professional studio shot, masterpiece",
+            "style": "realistic",
+            "gender": "any",
+            "aspect_ratio": "3:4",
+            "model": "nanobanana",
+            "url": "https://picsum.photos/seed/14/1024/1024",
+            "author": "Андрей",
+            "created_at": "2026-08-12 17:13:17",
+            "promo_used": "QWER",
+            "is_published": true,
+            "used_references": {
+                "count": 1
+            }
+        },
+        {
+            "id": "gen_ku7fbvf9",
+            "prompt_ru": "A fantasy golden mystical castle sitting high in misty mountains, aerial golden hour landscape view, soft watercolor washes illustration style, digital painting",
+            "prompt_en": "Strictly analyze and replicate 100% of the facial geometry, cheekbones, eyes, nose, lips and key facial landmarks of the person shown in reference image №1.  A fantasy golden mystical castle sitting high in misty mountains, aerial golden hour landscape view, soft watercolor washes illustration style, digital painting, photorealistic portrait, award-winning cinematic lighting, 8k resolution, highly detailed skin texture, professional studio shot, masterpiece",
+            "style": "realistic",
+            "gender": "any",
+            "aspect_ratio": "3:4",
+            "model": "agnes",
+            "url": "https://platform-outputs.agnes-ai.space/images/t2i/bb7d1698acc44a109e1d7f25cd5260f1.png",
+            "author": "Андрей",
+            "created_at": "2026-08-12 17:14:12",
+            "promo_used": "QWER",
+            "is_published": true,
+            "used_references": {
+                "count": 1
+            }
+        },
+        {
+            "id": "gen_g36yt6et",
+            "prompt_ru": "A fantasy golden mystical castle sitting high in misty mountains, aerial golden hour landscape view, soft watercolor washes illustration style, digital painting",
+            "prompt_en": "Strictly analyze and replicate 100% of the facial geometry, cheekbones, eyes, nose, lips and key facial landmarks of the person shown in reference image №1.  A fantasy golden mystical castle sitting high in misty mountains, aerial golden hour landscape view, soft watercolor washes illustration style, digital painting, photorealistic portrait, award-winning cinematic lighting, 8k resolution, highly detailed skin texture, professional studio shot, masterpiece",
+            "style": "realistic",
+            "gender": "any",
+            "aspect_ratio": "3:4",
+            "model": "nanobanana",
+            "url": "https://picsum.photos/seed/749/1024/1024",
+            "author": "Аноним",
+            "created_at": "2026-08-12 17:19:11",
+            "promo_used": "QWER",
+            "is_published": true,
+            "used_references": {
+                "count": 1
+            }
+        },
+        {
+            "id": "gen_k3t82moo",
+            "prompt_ru": "A fantasy golden mystical castle sitting high in misty mountains, aerial golden hour landscape view, soft watercolor washes illustration style, digital painting",
+            "prompt_en": "Strictly analyze and replicate 100% of the facial geometry, cheekbones, eyes, nose, lips and key facial landmarks of the person shown in reference image №1.  A fantasy golden mystical castle sitting high in misty mountains, aerial golden hour landscape view, soft watercolor washes illustration style, digital painting, photorealistic portrait, award-winning cinematic lighting, 8k resolution, highly detailed skin texture, professional studio shot, masterpiece",
+            "style": "realistic",
+            "gender": "any",
+            "aspect_ratio": "3:4",
+            "model": "agnes",
+            "url": "https://platform-outputs.agnes-ai.space/images/t2i/f70aa4c7cc0645c58705b4536a6850d8.png",
+            "author": "Аноним",
+            "created_at": "2026-08-12 17:20:02",
+            "promo_used": "QWER",
+            "is_published": true,
+            "used_references": {
+                "count": 1
+            }
+        }
+    ]
+}
