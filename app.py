@@ -265,7 +265,8 @@ def main_bot_polling():
             time.sleep(5)
         time.sleep(1)
 
-threading.Thread(target=main_bot_polling, daemon=True).start()
+if not app.debug or os.environ.get('WERKZEUG_RUN_MAIN') == 'true':
+    threading.Thread(target=main_bot_polling, daemon=True).start()
 
 # --- МАРШРУТЫ FLASK ---
 
